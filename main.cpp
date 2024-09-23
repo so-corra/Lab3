@@ -1,13 +1,13 @@
 /*
 # Lab: (Lab Number): 3
-# Author(s): Evan Sanford,
+# Author(s): Evan Sanford, Socorra McLaughlin
 # Due Date: (09/23/2024)
 #
 # Description: does multiple things with linked lists while being edited by multiple authors
                using git.
 # Comments:
 # Honor Pledge: I have abided by the Wheaton Honor Code and
-# some work below was performed by (Evan Sanford).
+# some work below was performed by (Evan Sanford & Socorra McLaughlin).
 */
 
 #include <iostream>
