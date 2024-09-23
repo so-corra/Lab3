@@ -1,6 +1,6 @@
 /*
 # Lab: (Lab Number): 3
-# Author(s): Evan Sanford,
+# Author(s): Evan Sanford, Socorra
 # Due Date: (09/23/2024)
 #
 # Description: does multiple things with linked lists while being edited by multiple authors
@@ -35,7 +35,7 @@ protected:
 public:
     MyList();                    // implied "create" function
     ~MyList();                   // implied "delete" function
-    //TODONEs
+    // TODONEs
     void Traverse () const;      // traverse list
     void Insert (int);           // insert into list in sorted order
     bool IsEmpty() const;        // check if list is empty
@@ -174,14 +174,14 @@ void MyList :: reverse () const {
         cout << myvector[i] << " -- ";
 }
 
-//
+// Deletes the entire linked list and sets head to point at a nullptr
 void MyList :: reset() {
     Node *curr = this->head;
     Node *prev = nullptr;
     Node *saveHead = this->head;
 
     while(head != nullptr) {
-
+        //Dewete uwu
     }
 
 }
